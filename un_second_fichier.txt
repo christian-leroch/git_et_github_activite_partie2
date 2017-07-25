@@ -1,1 +1,3 @@
-Ceci est un second fichier txt
+Ceci est un second fichier txt.
+C'est vrai , je ne suis pas très inspiré pour les noms de mes fichiers et leur contenu...
+Heureusement, ce n'est qu'un exercice du cours.
